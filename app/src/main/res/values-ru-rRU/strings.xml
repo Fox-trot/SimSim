@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Сим-Сим</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="prompt_loginname">Имя пользователя</string>
+    <string name="login_failed">Ошибка авторизации</string>
+    <string name="invalid_password">Не менее 4 знака, пробелы недопустимы</string>
+    <string name="invalid_username">Недопустимое имя пользователя</string>
+    <string name="action_sign_in_short">Авторизация</string>
+    <string name="action_sign_in">Авторизация или регистрация</string>
+    <string name="language">рус</string>
+</resources>
